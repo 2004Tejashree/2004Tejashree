@@ -24,3 +24,11 @@
 ## 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/tejashreerajepanaskar/
 - Email: itstejashreep10@gmail.com
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=2004Tejashree&show_icons=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=2004Tejashree)
+
+![Profile Views](https://komarev.com/ghpvc/?username=2004Tejashree)
+
+
