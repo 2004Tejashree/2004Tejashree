@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Computer Engineering Student | AI/ML Enthusiast | Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Explorer;Frontend+Developer;Hackathon+Finalist;Research+Driven+Engineer;Always+Learning+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=AI+%26+ML+Explorer;Fullstack+Developer;Hackathon+Finalist;Research+Driven+Engineer;Always+Learning+%F0%9F%9A%80" />
 </p>
 
 ---
