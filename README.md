@@ -10,7 +10,7 @@
 ## 👩‍💻 About Me
 - 🎓 Final Year Computer Engineering Student  
 - 🤖 Passionate about AI, Machine Learning & Deep Learning  
-- 💻 Strong in Frontend Development (React + Tailwind)  
+- 💻 Strong in Fullstack Development (React + Tailwind)  
 - 📄 Published **2 IEEE Research Papers** (Blockchain Domain)  
 - 🏆 Hackathon Participant & Problem Solver  
 - 🚀 Building projects that solve real-world problems  
