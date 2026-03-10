@@ -8,7 +8,7 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Final Year Computer Engineering Student  
+- 🎓 Final Year Computer Engineering Student   
 - 🤖 Passionate about AI, Machine Learning & Deep Learning  
 - 💻 Strong in Fullstack Development (React + Tailwind)  
 - 📄 Published **2 IEEE Research Papers** (Blockchain Domain)  
