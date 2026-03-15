@@ -12,7 +12,7 @@
 - 🤖 Passionate about AI, Machine Learning & Deep Learning  
 - 💻 Strong in Fullstack Development (React + Tailwind)  
 - 📄 Published **2 IEEE Research Papers** (Blockchain Domain)  
-- 🏆 Hackathon Participant & Problem Solver  
+- 🏆 Hackathon Winner ,Participant & Problem Solver  
 - 🚀 Building projects that solve real-world problems  
 
 ---
@@ -24,7 +24,7 @@
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🎨 Frontend
+### 🎨 Full Stack
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
